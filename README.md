@@ -1,7 +1,6 @@
 <h1 align="center">
-  <br>
-  ![markdownify](https://github.com/HyIamJu/agriplan_mobile/assets/92712852/0e45d85f-839b-4de8-802f-a54bfe46206d)
-  <br>
+  ![markdownify](https://github.com/HyIamJu/agriplan_mobile/assets/92712852/689c0980-4ceb-4ff1-8d63-ee3a30f5ce43)
+
   Agriplan
   <br>
 </h1>
@@ -10,16 +9,13 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  
 </p>
 
 ![markdownify2](https://github.com/HyIamJu/agriplan_mobile/assets/92712852/d0849d6e-cf5d-40f1-acf7-09154304b69a)
 
 
-## Key Features
-
+##🎯 Key Features
 * View Local Information
 * Receive Reminders for watering plants
 * Receive Watering  remainders for users
@@ -33,15 +29,12 @@
 * Masukkan dan saran
 * Settings
 
-## Screenshots
-
+##📸 Screenshots
 ![markdownify](https://github.com/HyIamJu/agriplan_mobile/assets/92712852/59349966-8962-4e6c-9ff6-1954b1e68af2)
-![ss agriplan](https://github.com/HyIamJu/agriplan_mobile/assets/92712852/963e84f8-62f0-4835-9022-46e10409534e)
+![ss agriplan](https://github.com/HyIamJu/agriplan_mobile/assets/92712852/dbfc7904-b3f3-423b-bf57-31f47f0f7f8d)
 ![markdownify3](https://github.com/HyIamJu/agriplan_mobile/assets/92712852/a49bedac-c369-4346-bc33-3db3fa7ecd89)
 
-
 ## Download
-
 You can [download]([https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0](https://agriplan.netlify.app))
 
 
