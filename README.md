@@ -1,6 +1,6 @@
-<h1 align="center">
-  ![markdownify](https://github.com/HyIamJu/agriplan_mobile/assets/92712852/689c0980-4ceb-4ff1-8d63-ee3a30f5ce43)
+![markdownify](https://github.com/HyIamJu/agriplan_mobile/assets/92712852/d2de8956-eafb-4750-891a-6b3210f75411)
 
+<h1 align="center">
   Agriplan
   <br>
 </h1>
