@@ -7,9 +7,9 @@
 </h1>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
+  <a href="#🎯 Key Features">Key Features</a> •
+  <a href="#📸 Screenshots">How To Use</a> •
+  <a href="#😋 Download">Download</a> •
   
 </p>
 
