@@ -37,8 +37,7 @@
 
 
 ## 😋 Download
-<a href="https://agriplan.netlify.app">
-    <img alt="download now" title="Download Agriplan" src="assets/92712852/f01204d4-8066-47e0-b676-9484b1290240" width="200">
-  </a>
+
+<p>If u using android you install our application manually APK link<a href="https://agriplan.netlify.app"> here</a></p>
 
 
