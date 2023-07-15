@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#🎯 Key Features">Key Features</a> •
   <a href="#📸 Screenshots">How To Use</a> •
-  <a href="#😋 Download">Download</a> •
+  <a href="#😋 Download">Download</a>
   
 </p>
 
