@@ -36,8 +36,6 @@
 ![markdownify3](https://github.com/HyIamJu/agriplan_mobile/assets/92712852/a49bedac-c369-4346-bc33-3db3fa7ecd89)
 
 
-![image](https://github.com/HyIamJu/agriplan_mobile/assets/92712852/f01204d4-8066-47e0-b676-9484b1290240)
-
 ## 😋 Download
 <a href="https://agriplan.netlify.app">
     <img alt="download now" title="Download Agriplan" src="https://github.com/HyIamJu/agriplan_mobile/assets/92712852/f01204d4-8066-47e0-b676-9484b1290240" width="200">
