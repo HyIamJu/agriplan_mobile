@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#-key-features">Key Features</a> •
-  <a href="#-Screenshots">How To Use</a> •
+  <a href="#-Screenshots">Screenshots</a> •
   <a href="#-Download">Download</a>
   
 </p>
